@@ -17,8 +17,6 @@ This project presents a comprehensive exploratory data analysis (EDA) and machin
 - Models used:
   - **Random Forest Classifier**
   - **XGBoost Classifier**
-- Random Forest showed better performance on this dataset (~79% accuracy)
-
 ---
 
 ## 🛠️ Libraries Used

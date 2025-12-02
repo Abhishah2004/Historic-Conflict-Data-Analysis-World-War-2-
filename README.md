@@ -4,7 +4,7 @@
 
 ---
 
-### Dataset (100% hand-built by the author)
+### Dataset (100% authentic by the author)
 
 - **No external dataset used** – every single battle was researched, compiled, and inserted into a local PostgreSQL database (`ww2.battles`) by me.
 - 70 battles with the following columns:
